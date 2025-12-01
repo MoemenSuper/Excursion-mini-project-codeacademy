@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    
+}
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size:50px;
+    color:white;
+    text-align: center;
+}
+#Download{
+    text-align: center;
+    color:aquamarine;
+}
+#iphone-container{
+    text-align: center;
+}
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size:42px;
+    text-align: center;
+}
+#Description{
+    font-family: Verdana;
+    font-size:21px;
+    color:gray;
+    text-align: center;
+}
+#img2,#img3{
+    text-align: center;
+    
+}
+#watermark{
+    text-align: right;
+    color:gray
+}
+#img2 img{
+    width: 60%;
+    height: auto;
+
+}
